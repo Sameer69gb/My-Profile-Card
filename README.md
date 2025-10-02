@@ -21,7 +21,7 @@ It includes my personal details and links to my social media accounts with hover
 
 
 ## 🔗 Live Demo
-👉 [View Website](https://sameer69gb.github.io/my-profile-site/)  
+👉 [View Website](https://sameer69gb.github.io/My-Profile-Card/)  
 
 
 ---
